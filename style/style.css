@@ -1,0 +1,14 @@
+
+
+
+.navbar-nav{
+    list-style-type: none;
+    padding: 0;
+    margin:0;
+    /* width: 50px; */
+}
+
+.nav-item{
+    display: inline-block;
+    width: 50px;
+}
