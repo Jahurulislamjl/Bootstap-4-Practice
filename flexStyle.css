@@ -1,0 +1,38 @@
+.flex-content{
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    background-color: gray;
+    color: white;
+}
+
+.form-row{
+    padding: 10px 0;
+    display: flex;
+}
+
+.form-row label{
+    padding-right: 10px;
+    flex: 1;
+}
+
+.form-row input{
+    flex: 3;
+}
+
+.colum-layout{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid black;
+    display: flex;
+}
+.main-column{
+    flex: 2;
+}
+
+.sidebar-1{
+   flex: 1;
+}
+.sidebar-2{
+    flex: 1;
+}
